@@ -62,7 +62,7 @@ button {
 
 /*===Hero Section===  */
 .hero-section {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .main-title {
@@ -80,7 +80,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
 }
 
 .order-service-btn:hover,
@@ -108,10 +108,14 @@ button {
 
 /* ===Our Team Section=== */
 
+.our-team-section {
+  background-color: #f4f4fd;
+}
+
 .section-team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -124,6 +128,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background-color: #fff;
 }
 .team-list-text {
   font-weight: 400;
@@ -139,13 +144,14 @@ button {
 .section-portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
-.team-list-title {
+.portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -153,7 +159,7 @@ button {
   color: #2e2f42;
 }
 
-.team-list-text {
+.portfolio-list-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
