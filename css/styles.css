@@ -119,6 +119,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-list-title {
@@ -128,7 +129,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .team-list-text {
   font-weight: 400;
